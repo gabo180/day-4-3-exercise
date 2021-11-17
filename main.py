@@ -15,6 +15,8 @@ map[list_position[1] - 1] [list_position[0] - 1] = "X"
 # horizontal =  int(position[0])
 # vertical = int(position[1])
 
+#map[vertical - 1][horizontal - 1] = "X" ## Another solution
+
 #selected_row = map[vertical - 1]
 #selected_row[horzintal - 1] = "X"
 
