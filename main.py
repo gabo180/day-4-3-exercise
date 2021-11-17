@@ -11,6 +11,13 @@ position = input("Where do you want to put the treasure? ")
 list_position = [int(a) for a in str(position)]
 map[list_position[1] - 1] [list_position[0] - 1] = "X"
 
+# Teacher solution:
+# horizontal =  int(position[0])
+# vertical = int(position[1])
+
+#selected_row = map[vertical - 1]
+#selected_row[horzintal - 1] = "X"
+
 
 #Write your code above this row 👆
 
