@@ -13,12 +13,6 @@ map[list_position[1] - 1] [list_position[0] - 1]= "X"
 print(map)
 
 
-# map[2][1] = "X"
-# print(map)
-
-
-
-
 #Write your code above this row 👆
 
 # 🚨 Don't change the code below 👇
