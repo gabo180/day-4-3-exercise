@@ -9,7 +9,7 @@ position = input("Where do you want to put the treasure? ")
 
 #Write your code below this row 👇
 list_position = [int(a) for a in str(position)]
-map[list_position[1] - 1] [list_position[0] - 1]= "X"
+map[list_position[1] - 1] [list_position[0] - 1] = "X"
 
 
 #Write your code above this row 👆
